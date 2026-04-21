@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Calculateur de Résistance Minimale",
+  "description": "Calcule la résistance minimale autorisée pour éviter la surcharge d\u0027un disjoncteur donné (6A à 63A).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
